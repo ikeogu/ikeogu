@@ -26,26 +26,26 @@ Passionate about solving real-world problems through clean architecture and effi
 
 ## 🛠 Projects
 
-### 🔹 [SmartSend (FinTech Platform)](#)
+### 🔹 [SmartSend (FinTech Platform)
 USD → NGN instant remittance system  
 - **Stack:** Laravel, Vue (Inertia), Redis, Pest, AWS  
 - **Features:** Business onboarding, instant settlements, admin dashboard  
 
-### 🔹 [DevGuard (Laravel Package)](#)
+### 🔹 [DevGuard (Laravel Package)]
 Custom Laravel package securing internal developer tools  
 - Protects Log Viewer, Telescope & Dedoc Scramble with custom auth guard  
 - Includes seeder & cleanup command for easy setup  
 
-### 🔹 [School Portal Backend](#)
+### 🔹 [School Portal Backend]
 Student assignment & results management system  
 - **Stack:** Laravel + Vue  
 - **Features:** Results export, student portals, teacher dashboards  
 
-### 🔹 [Telegram Bot](#)
+### 🔹 [Telegram Bot]
 Automated notifications & reminders  
 - **Stack:** Node.js/Python + Telegram Bot API  
 
-### 🔹 [Rust Forex Trading Bot](#)
+### 🔹 [Rust Forex Trading Bot]
 Dynamic Forex pair trading with AlphaVantage API  
 - **Stack:** Rust, AWS EC2  
 - **Features:** Automated trades, dynamic currency switching  
@@ -54,8 +54,8 @@ Dynamic Forex pair trading with AlphaVantage API
 
 ## ✍️ Articles & Publications
 
-- [Integrating Laravel Reverb for Real-Time Web and Mobile Frontends](#https://medium.com/@techative_dera/integrating-laravel-reverb-for-real-time-web-and-mobile-frontends-f74bff20e69a)  
-- [Don’t use Postman Use This for Laravel API Documentation](#https://medium.com/@techative_dera/dont-use-postman-use-this-for-laravel-api-documentation-ae933b8ef2db)  
+- [Integrating Laravel Reverb for Real-Time Web and Mobile Frontends](https://medium.com/@techative_dera/integrating-laravel-reverb-for-real-time-web-and-mobile-frontends-f74bff20e69a)  
+- [Don’t use Postman Use This for Laravel API Documentation](https://medium.com/@techative_dera/dont-use-postman-use-this-for-laravel-api-documentation-ae933b8ef2db)  
 
 ---
 
@@ -72,9 +72,9 @@ Dynamic Forex pair trading with AlphaVantage API
 ## 🌍 Let's Connect
 
 - 📧 Email: [ikeogu322@gmail.com]  
-- 💼 LinkedIn: [https://www.linkedin.com/in/emmanuel-ikeogu-011300164/](#https://www.linkedin.com/in/emmanuel-ikeogu-011300164/)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/emmanuel-ikeogu-011300164/](https://www.linkedin.com/in/emmanuel-ikeogu-011300164/)  
 - 🐙 GitHub: [github.com/ikeogu](https://github.com/ikeogu)  
-- 💬 X: [@techative_dera](#https://x.com/techative_dera)  
+- 💬 X: [@techative_dera](https://x.com/techative_dera)  
 
 ---
 ⭐️ From [ikeogu](https://github.com/ikeogu)
